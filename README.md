@@ -1,4 +1,4 @@
-# Note Taker Starter Code by Yuliia Pylypiv:
+# README.
 User Story
 AS A small business owner
 I WANT to be able to write and save notes
