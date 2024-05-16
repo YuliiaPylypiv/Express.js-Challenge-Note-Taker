@@ -24,6 +24,8 @@ Here we made a note taker application that can be used to write and save notes, 
 
 Deployed application link here: https://notes-takerr.herokuapp.com/
 
+link from YOUTUBE: https://youtu.be/phmy4IFJQqY
+
 To open it you need to make installation; 
 1) clone repository to you computer;
 2) run "npm i";
